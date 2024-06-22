@@ -1,0 +1,66 @@
+*,
+::after,
+::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//Color variable
+$White: hsl(0,0%,100%);
+$LightGray: hsl(212,45%,89%);
+$GrayishBlue: hsl(220,15%,55%);
+$DarkBlue: hsl(218,44%,22%);
+
+
+body{
+background:$LightGray;
+font-family: "Outfit", sans-serif;;
+}
+
+.container{
+    background-color: $White;
+    width: 320px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 85px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+
+    .imgbox{
+        margin: auto;
+        img{
+            width: 280px;
+            border-radius: 10px;
+        }
+    }
+
+    .info{
+        margin-top: 30px;
+
+        h2{
+            font-weight: 700;
+            color: $DarkBlue;
+        }
+        p{
+            font-weight: 400;
+            font-size: 15px;
+            margin-top: 15px;
+            color: $GrayishBlue;
+            text-align: center;
+          
+        }
+    }
+   
+}
+
+
+// Media Query for desktop screens 1440px
+
+/**
+@media (min-width: 1440px) {
+ 
+
+  }
+
+  **/
