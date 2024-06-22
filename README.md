@@ -19,10 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
---- write HTML SCSS code
---- upload in git
---- Live View
---- Maintain code formate and style
+This project involves writing HTML and SCSS code, uploading it to Git, providing a live view, and maintaining code format and style.
 
 ### Screenshot
 
@@ -30,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mdnaimur/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://mdnaimur.github.io/qr-code-component-main/)
+- Solution URL: [github link for code](https://github.com/mdnaimur/qr-code-component-main)
+- Live Site URL: [live site URL here](https://mdnaimur.github.io/qr-code-component-main/)
   Thanks for checking out this front-end coding challenge.
 
 ## My process
@@ -45,9 +42,11 @@ Write HTML code and insert QR image inside HTML. After that, I use SCSS for styl
 
 ### What I learned
 
-** HTML: Understanding HTML is crucial as it forms the backbone of all web development.
-** SCSS: Using SCSS for styling has shown me the importance of maintaining a proper style guide ** for better organization and readability.
-** Git: Last but not least, learning Git has been essential for version control and collaborative development.
+**HTML:** Understanding HTML is crucial as it forms the backbone of all web development.
+
+**SCSS:** Using SCSS for styling has shown me the importance of maintaining a proper style guide for better organization and readability.
+
+**Git:** Last but not least, learning Git has been essential for version control and collaborative development.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -67,7 +66,8 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.linkedin.com/in/md-naimur-rahman/)
+- Website - [Md Naimur Rahman](https://www.linkedin.com/in/md-naimur-rahman/)
 - Frontend Mentor - [@mdnaimur](https://frontendmentor.io/profile/mdnaimur)
 - Twitter - [@MdNaimurRahmanD](https://twitter.com/MdNaimurRahmanD)
+
   **Have fun building!** 🚀
